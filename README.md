@@ -1,5 +1,4 @@
 #  Mean and variance of a discrete  distribution
-# DATE:
 
 # Aim : 
 
